@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-mernstack-crud/static/css/main.e98aca68.css",
+    "main.js": "/react-mernstack-crud/static/js/main.52e3f46a.js",
+    "static/js/787.b546bc8f.chunk.js": "/react-mernstack-crud/static/js/787.b546bc8f.chunk.js",
+    "static/media/logo.svg": "/react-mernstack-crud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-mernstack-crud/index.html",
+    "main.e98aca68.css.map": "/react-mernstack-crud/static/css/main.e98aca68.css.map",
+    "main.52e3f46a.js.map": "/react-mernstack-crud/static/js/main.52e3f46a.js.map",
+    "787.b546bc8f.chunk.js.map": "/react-mernstack-crud/static/js/787.b546bc8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98aca68.css",
+    "static/js/main.52e3f46a.js"
+  ]
+}
